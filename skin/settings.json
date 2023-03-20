@@ -1,6 +1,6 @@
 {
 	"text-alignment": "left",
-	"text-margin": 362,
+	"text-margin": 355,
 	"color-guide": "#f7fbf7",
 	"color-inactive": "#979797",
 	"color-active": "#f7fbf7",
@@ -30,5 +30,5 @@
 	"hour-label": "HH",
 	"minute-label": "MM",
 	"meridian-time-label": "MT",
-	"title-label": "GarlicOS"
+	"title-label": "GarlicOS %s"
 }

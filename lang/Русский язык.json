@@ -26,5 +26,5 @@
 	"hour-label": "ЧЧ",
 	"minute-label": "мм",
 	"meridian-time-label": "MT",
-	"title-label": "GarlicOS"
+	"title-label": "GarlicOS %s"
 }

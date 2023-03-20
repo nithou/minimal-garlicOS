@@ -26,5 +26,5 @@
 	"hour-label": "時",
 	"minute-label": "分",
 	"meridian-time-label": "AM/PM表記",
-	"title-label": "GarlicOS"
+	"title-label": "GarlicOS %s"
 }

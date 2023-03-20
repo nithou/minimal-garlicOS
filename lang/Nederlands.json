@@ -26,5 +26,5 @@
 	"hour-label": "uu",
 	"minute-label": "mm",
 	"meridian-time-label": "MT",
-	"title-label": "GarlicOS"
+	"title-label": "GarlicOS %s"
 }

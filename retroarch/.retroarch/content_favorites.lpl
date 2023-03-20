@@ -1,0 +1,302 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/mmc/Roms/GBA/Final Fantasy Tactics Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/SFC/EarthBound (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/EarthBound Beginnings (USA, Europe) (Virtual Console).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Mother 1-2 (English).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/SFC/Super Star Wars (USA) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/SFC/Secret of Mana (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokemon Turquoise.zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokemon Snakewood.zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokemon Glazed.zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/MD/Streets of Rage 2 (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/MD/Lost Vikings, The (USA) (October, 1995).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/MD/Golden Axe (World) (Rev A).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/MD/Altered Beast (USA, Europe).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/MD/Aladdin (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GG/Streets of Rage 2 (World).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBC/Wario Land 3 (World) (En,Ja).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBC/Super Mario Bros. Deluxe (USA, Europe) (Rev 2).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBC/Resident Evil Gaiden (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBC/Pokemon - Crystal Version (USA, Europe) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (USA, Australia).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Ages (USA, Australia).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBC/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GB/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GB/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/Tetris (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/Teenage Mutant Ninja Turtles (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/Maniac Mansion (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/Final Fantasy III (Japan) [T-En by Chaos Rush v1.3].zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/EarthBound Beginnings (USA, Europe) (Virtual Console).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/DuckTales (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/Darkwing Duck (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/FC/Castlevania (USA) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mother 3 (Japan) [T-En by Chewy & Jeffman & Tomato v1.3].zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mother 1-2 (English).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Legend of Zelda, The - The Minish Cap (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Legend of Zelda, The - A Link to the Past & Four Swords (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Kingdom Hearts - Chain of Memories (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Golden Sun (USA, Europe).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy VI Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy V Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy IV Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy I & II - Dawn of Souls (USA).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Advance Wars (USA) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokemon Dark Rising.gba"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokemon Unbound v2.1.1.1.gba"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Pokemon Dark Rising.gba"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Streets of Rage 3 (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Streets of Rage 2 (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Lost Vikings, The (USA) (October, 1995).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Golden Axe (World) (Rev A).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Golden Axe II (World).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Golden Axe III (Japan) (En).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Castlevania - Bloodlines (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/MD/Aladdin (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBC/Wario Land 3 (World) (En,Ja).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBC/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBC/Pokemon - Crystal Version (USA, Europe) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (USA, Australia).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBC/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBC/Legend of Zelda, The - Oracle of Ages (USA, Australia).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBC/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Pokemon Unbound v2.1.1.1.gba"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Pokemon - FireRed Version (USA, Europe) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Pokemon - Emerald Version (USA, Europe).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Mother 3 (Japan) [T-En by Chewy & Jeffman & Tomato v1.3].zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Legend of Zelda, The - A Link to the Past & Four Swords (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Legend of Zelda, The - The Minish Cap (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Kingdom Hearts - Chain of Memories (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Final Fantasy VI Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Final Fantasy V Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Final Fantasy IV Advance (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GBA/Advance Wars 2 - Black Hole Rising (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Wario Land II (USA, Europe) (SGB Enhanced).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Super Mario Land (World) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Pokemon - Blue Version (USA, Europe) (SGB Enhanced).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/DuckTales 2 (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Castlevania Legends (USA, Europe) (SGB Enhanced).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Castlevania II - Belmont's Revenge (USA, Europe).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/GB/Castlevania - The Adventure (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Zelda II - The Adventure of Link (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Tetris (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Teenage Mutant Ninja Turtles II - The Arcade Game (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Teenage Mutant Ninja Turtles (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Super Mario Bros. 3 (USA) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Maniac Mansion (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Legend of Zelda, The (USA) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Kirby's Adventure (USA) (Rev 1).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Final Fantasy III (Japan) [T-En by Chaos Rush v1.3].zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/DuckTales (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Castlevania III - Dracula's Curse (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Castlevania II - Simon's Quest (USA).zip"
+    },
+    {
+      "path": "/mnt/mmc/Roms/FC/Castlevania (USA) (Rev 1).zip"
+    }
+  ]
+}
