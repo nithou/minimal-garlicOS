@@ -4,9 +4,13 @@ Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Th
 
 ## Examples of the theme
 
-![Example of the theme](https://github.com/nithou/Minimal-garlicOS/blob/main/theme-example.png)
+![Example of the theme](https://github.com/nithou/Minimal-garlicOS/blob/main/_img/theme-example.png)
 
-![Example of the recents area](https://github.com/nithou/Minimal-garlicOS/blob/main/recent-example.png)
+![Example of the recents area](https://github.com/nithou/Minimal-garlicOS/blob/main/_img/recent-example.png)
+
+![Example of the home area with device](https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-home.png)
+
+![Example of the recents area with device](https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-home.png)
 
 ## Compatible box art set
 
