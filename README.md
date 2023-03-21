@@ -11,8 +11,7 @@ Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Th
 ![Example of the recents area](https://github.com/nithou/Minimal-garlicOS/blob/main/_img/recent-example.png)
 
 
-<img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-home.png" width=200 alt="xample of the Home area with device" style="display:inline-block;"/>
-<img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-recent.png" width=200 alt="xample of the Recents area with device" style="display:inline-block;"/>
+<img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-home.png" width=200 alt="Example of the Home area with device" style="display:inline-block;"/><img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-recent.png" width=200 alt="Example of the Recents area with device" style="display:inline-block;"/>
 
 
 ## Compatible box art set
