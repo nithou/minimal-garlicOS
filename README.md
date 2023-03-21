@@ -6,10 +6,7 @@ Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Th
 
 ## Examples of the theme
 
-![Example of the theme](https://github.com/nithou/Minimal-garlicOS/blob/main/_img/theme-example.png)
-
-![Example of the recents area](https://github.com/nithou/Minimal-garlicOS/blob/main/_img/recent-example.png)
-
+<img src="https://github.com/nithou/Minimal-garlicOS/raw/main/_img/theme-example.png" width=300 alt="Example of the Home" style="display:inline-block;"/><img src="https://github.com/nithou/Minimal-garlicOS/raw/main/_img/recent-example.png" width=300 alt="Example of the Recents" style="display:inline-block;"/>
 
 ## Examples of the theme working
 
