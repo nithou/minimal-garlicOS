@@ -2,6 +2,8 @@
 
 Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Themes/commits/main/themes/mini.os%20by%20nationalsoup), a working theme for GarlicOS
 
+You can find the [public Figma File here](https://www.figma.com/community/file/1219968948888512600)
+
 ## Examples of the theme
 
 ![Example of the theme](https://github.com/nithou/Minimal-garlicOS/blob/main/theme-example.png)
