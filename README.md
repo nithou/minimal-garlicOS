@@ -10,7 +10,7 @@ Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Th
 
 ## Examples of the theme working
 
-<img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-home.png" width=400 alt="Example of the Home area with device" style="display:inline-block;"/><img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-recent.png" width=400 alt="Example of the Recents area with device" style="display:inline-block;"/>
+<img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-boot.png" width=400 alt="Example of the Home area with device" style="display:inline-block;"/><img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-home.png" width=400 alt="Example of the Home area with device" style="display:inline-block;"/><img src="https://github.com/nithou/Minimal-garlicOS/blob/main/_img/live-recent.png" width=400 alt="Example of the Recents area with device" style="display:inline-block;"/>
 
 
 ## Compatible box art set
