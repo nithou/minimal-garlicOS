@@ -2,7 +2,7 @@
 
 ## Examples of the theme
 
-<img src="https://github.com/nithou/Minimal-garlicOS/raw/main/_img/theme-example.png" width=400 alt="Example of the Home" style="display:inline-block;"/>&nbsp;&nbsp;<img src="https://github.com/nithou/Minimal-garlicOS/raw/main/_img/image-list.png" width=400 alt="Example of the inline List" style="display:inline-block;"/>
+<img src="https://github.com/nithou/Minimal-garlicOS/raw/main/_img/theme-example.png" width=400 alt="Example of the Home" style="display:inline-block;"/>&nbsp;&nbsp;<img src="https://github.com/nithou/Minimal-garlicOS/raw/main/_img/recent-example.png" width=400 alt="Example of the inline List" style="display:inline-block;"/>
 
 Adapted from the Mini OS work from [National Soup](https://github.com/OnionUI/Themes/commits/main/themes/mini.os%20by%20nationalsoup), a working theme for GarlicOS
 
